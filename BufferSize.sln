@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "BufferSize", "BufferSize\BufferSize.dtproj", "{93BD45CB-834E-4A3B-93DD-881C1B01F17F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93BD45CB-834E-4A3B-93DD-881C1B01F17F}.Development|Default.ActiveCfg = Development
+		{93BD45CB-834E-4A3B-93DD-881C1B01F17F}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {896D68CC-F7B7-4ECB-B644-BFF6CC77EB43}
+	EndGlobalSection
+EndGlobal
